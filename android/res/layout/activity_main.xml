@@ -1,0 +1,55 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <Button
+        android:id="@+id/sleeper"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="37dp"
+        android:text="Sleeper" />
+
+    <Button
+        android:id="@+id/slacker"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/sleeper"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="54dp"
+        android:text="Lonely (Slacker)" />
+
+    <Button
+        android:id="@+id/rocker"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/slacker"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:text="Aggressive (Rocker)" />
+
+    <Button
+        android:id="@+id/hacker"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/slacker"
+        android:layout_below="@+id/rocker"
+        android:layout_marginTop="50dp"
+        android:text="Happy (Hacker)" />
+
+    <EditText
+        android:id="@+id/openpicus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="22dp"
+        android:ems="10"
+        android:text="10.1.9.68"
+        android:inputType="text">
+
+        <requestFocus />
+    </EditText>
+
+</RelativeLayout>
