@@ -5,8 +5,9 @@ hi!mood is a wi-fi device to wake up with a led pattern and a stereo sound relat
 
 <p align="center">
 <img src="http://www.a-pole.com/uploads/8/8/1/8/8818947/4022411.jpg" />
-The team with the prize received by Microsoft (Nokia Lumia 800!) at hackitaly 2012 in H-Farm.
 </p>
+
+The team with the prize received by Microsoft (Nokia Lumia 800!) at hackitaly 2012 in H-Farm.
 
 
 
