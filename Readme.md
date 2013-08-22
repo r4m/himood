@@ -1,5 +1,9 @@
 hi!mood
-==============
+=======
+
+<p align="center">
+<img src="http://www.a-pole.com/uploads/8/8/1/8/8818947/7527069_orig.jpg" />
+</p>
 
 hi!mood is a wi-fi device to wake up with a led pattern and a stereo sound related to your morning mood. The device is an OpenPicus platform controlled through an Android app. hi!mood has been developed during the Hackitaly 2012 event hosted in [H-Farm](www.h-farmventures.com). hi!mood was hacked together by [A-Pole](www.a-pole.com) and two new great collaborators: Alessandro Costa, software developer in Master, and Fabio Dal Colle, co-founder of Desall.
 
